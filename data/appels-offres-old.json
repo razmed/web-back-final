@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "titre": "Construction d'un pont autoroutier",
+    "description": "Construction d'un pont autoroutier de 500 mètres reliant Alger à Tipaza",
+    "date_publication": "2024-01-15",
+    "date_echeance": "2024-04-15",
+    "reference": "AO-2024-001",
+    "montant": 150000000,
+    "localisation": "Alger - Tipaza",
+    "statut": "actif"
+  },
+  {
+    "id": 2,
+    "titre": "Rénovation du réseau d'assainissement",
+    "description": "Travaux de rénovation et modernisation du réseau d'assainissement de la ville de Constantine",
+    "date_publication": "15/02/2024",
+    "date_echeance": "15/05/2024",
+    "reference": "AO-2024-002",
+    "montant": 85000000,
+    "localisation": "Constantine",
+    "statut": "actif"
+  },
+  {
+    "id": 3,
+    "titre": "Aménagement d'une zone industrielle",
+    "description": "Aménagement et viabilisation d'une zone industrielle de 50 hectares",
+    "date": "2024-03-01T10:00:00Z",
+    "deadline": "2024-06-01T23:59:59Z",
+    "ref": "AO-2024-003",
+    "budget": 200000000,
+    "lieu": "Oran",
+    "status": "actif"
+  },
+  {
+    "id": 4,
+    "titre": "Construction de logements sociaux",
+    "description": "Construction de 500 logements sociaux avec équipements collectifs",
+    "datePublication": "2024-02-20T08:00:00Z",
+    "dateEcheance": "2024-08-20T18:00:00Z",
+    "reference": "AO-2024-004",
+    "montant": 250000000,
+    "location": "Sétif",
+    "statut": "actif"
+  },
+  {
+    "id": 5,
+    "title": "Réhabilitation d'un barrage",
+    "desc": "Travaux de réhabilitation et mise aux normes du barrage de Taksebt",
+    "date_publication": "2024-01-10",
+    "date_echeance": "2024-07-10",
+    "numero": "AO-2024-005",
+    "price": 120000000,
+    "localisation": "Tizi Ouzou",
+    "status": "actif"
+  },
+  {
+    "id": 6,
+    "titre": "Extension du réseau de tramway",
+    "description": "Extension de la ligne de tramway sur 15 km avec 20 stations",
+    "date_publication": "2024-03-15",
+    "date_echeance": "2024-09-15",
+    "reference": "AO-2024-006",
+    "montant": 300000000,
+    "localisation": "Annaba",
+    "statut": "actif"
+  },
+  {
+    "id": 7,
+    "titre": "Modernisation d'un hôpital universitaire",
+    "description": "Modernisation et extension du CHU avec nouveaux équipements médicaux",
+    "date_publication": "2024-02-01",
+    "date_echeance": "2024-12-01",
+    "reference": "AO-2024-007",
+    "montant": 180000000,
+    "localisation": "Batna",
+    "statut": "actif"
+  },
+  {
+    "id": 8,
+    "titre": "Construction d'un complexe sportif",
+    "description": "Construction d'un complexe sportif olympique avec stade de 40000 places",
+    "date_publication": "2024-04-01",
+    "date_echeance": "2025-04-01",
+    "reference": "AO-2024-008",
+    "montant": 400000000,
+    "localisation": "Blida",
+    "statut": "actif"
+  }
+]
+
